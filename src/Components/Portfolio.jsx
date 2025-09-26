@@ -1,4 +1,4 @@
-import "../Components/portfolio.css"
+import "../Components/Portfolio.css"
 
 export default function Portfolio() {
   const projects = [
