@@ -1,4 +1,5 @@
-import Portfolio from "./portfolio";
+import Portfolio from "./Components/Portfolio";
+
 
 
 function App() {
